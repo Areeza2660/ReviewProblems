@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/bin/Debug/net9.0/SentenceFromWords
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/bin/Debug/net9.0/SentenceFromWords.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/bin/Debug/net9.0/SentenceFromWords.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/bin/Debug/net9.0/SentenceFromWords.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/bin/Debug/net9.0/SentenceFromWords.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/refint/SentenceFromWords.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/SentenceFromWords.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/SentenceFromWords/obj/Debug/net9.0/ref/SentenceFromWords.dll

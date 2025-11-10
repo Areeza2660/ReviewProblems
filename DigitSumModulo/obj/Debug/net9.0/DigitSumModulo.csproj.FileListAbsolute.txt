@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/bin/Debug/net9.0/DigitSumModulo
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/bin/Debug/net9.0/DigitSumModulo.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/bin/Debug/net9.0/DigitSumModulo.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/bin/Debug/net9.0/DigitSumModulo.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/bin/Debug/net9.0/DigitSumModulo.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/refint/DigitSumModulo.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/DigitSumModulo.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumModulo/obj/Debug/net9.0/ref/DigitSumModulo.dll

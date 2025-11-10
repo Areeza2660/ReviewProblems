@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/bin/Debug/net9.0/AdultCorpulenceIndex
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/bin/Debug/net9.0/AdultCorpulenceIndex.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/bin/Debug/net9.0/AdultCorpulenceIndex.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/bin/Debug/net9.0/AdultCorpulenceIndex.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/bin/Debug/net9.0/AdultCorpulenceIndex.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/refint/AdultCorpulenceIndex.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/AdultCorpulenceIndex.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/AdultCorpulenceIndex/obj/Debug/net9.0/ref/AdultCorpulenceIndex.dll

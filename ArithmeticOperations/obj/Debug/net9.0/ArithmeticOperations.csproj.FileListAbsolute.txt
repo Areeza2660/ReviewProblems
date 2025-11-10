@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/bin/Debug/net9.0/ArithmeticOperations
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/bin/Debug/net9.0/ArithmeticOperations.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/bin/Debug/net9.0/ArithmeticOperations.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/bin/Debug/net9.0/ArithmeticOperations.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/bin/Debug/net9.0/ArithmeticOperations.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/refint/ArithmeticOperations.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ArithmeticOperations.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/ArithmeticOperations/obj/Debug/net9.0/ref/ArithmeticOperations.dll

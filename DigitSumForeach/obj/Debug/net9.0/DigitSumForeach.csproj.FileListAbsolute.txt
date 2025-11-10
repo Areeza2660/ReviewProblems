@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/bin/Debug/net9.0/DigitSumForeach
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/bin/Debug/net9.0/DigitSumForeach.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/bin/Debug/net9.0/DigitSumForeach.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/bin/Debug/net9.0/DigitSumForeach.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/bin/Debug/net9.0/DigitSumForeach.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/refint/DigitSumForeach.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/DigitSumForeach.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DigitSumForeach/obj/Debug/net9.0/ref/DigitSumForeach.dll

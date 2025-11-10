@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/bin/Debug/net9.0/OOPBasedTodoApp
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/bin/Debug/net9.0/OOPBasedTodoApp.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/bin/Debug/net9.0/OOPBasedTodoApp.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/bin/Debug/net9.0/OOPBasedTodoApp.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/bin/Debug/net9.0/OOPBasedTodoApp.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/refint/OOPBasedTodoApp.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/OOPBasedTodoApp.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/OOPBasedTodoApp/obj/Debug/net9.0/ref/OOPBasedTodoApp.dll

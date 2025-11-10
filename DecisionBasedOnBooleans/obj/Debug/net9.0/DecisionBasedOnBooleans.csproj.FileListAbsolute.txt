@@ -1,0 +1,14 @@
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/bin/Debug/net9.0/DecisionBasedOnBooleans
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/bin/Debug/net9.0/DecisionBasedOnBooleans.deps.json
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/bin/Debug/net9.0/DecisionBasedOnBooleans.runtimeconfig.json
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/bin/Debug/net9.0/DecisionBasedOnBooleans.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/bin/Debug/net9.0/DecisionBasedOnBooleans.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.GeneratedMSBuildEditorConfig.editorconfig
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.AssemblyInfoInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.AssemblyInfo.cs
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.csproj.CoreCompileInputs.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/refint/DecisionBasedOnBooleans.dll
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.pdb
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/DecisionBasedOnBooleans.genruntimeconfig.cache
+/Users/areezahussain/RiderProjects/ReviewProblems/DecisionBasedOnBooleans/obj/Debug/net9.0/ref/DecisionBasedOnBooleans.dll
